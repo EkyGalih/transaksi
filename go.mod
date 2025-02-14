@@ -5,6 +5,7 @@ go 1.22.2
 require (
 	github.com/google/uuid v1.4.0
 	github.com/labstack/echo v3.3.10+incompatible
+	github.com/lib/pq v1.10.9
 	github.com/spf13/viper v1.19.0
 	gorm.io/driver/postgres v1.5.11
 	gorm.io/gorm v1.25.12
